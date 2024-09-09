@@ -1,0 +1,161 @@
+Page,Result,Title,Link,Abstract
+1,1,Toward efficient and privacy-preserving computing in big data era,https://ieeexplore.ieee.org/abstract/document/6863131/,"… privacy-preserving techniques to check whether or not they are suitable for privacy-preserving …
+also present an efficient and privacy-preserving cosine similarity computing protocol as an …"
+1,2,Exploring design and governance challenges in the development of privacy-preserving computation,https://dl.acm.org/doi/abs/10.1145/3411764.3445677,"… multi-party computation, and differential privacy are part of an emerging class of Privacy
+Enhancing … , and responsible governance of these privacy-preserving computation techniques. …"
+1,3,Sok: Privacy-preserving computation techniques for deep learning,https://petsymposium.org/popets/2021/popets-2021-0064.php,"… Also, privacy regulations like the European GDPR limit the … Recent advances in privacy-preserving
+computation … of the adaptation of privacy-preserving computation techniques onto DL, …"
+1,4,Privacy-preserving set operations,https://link.springer.com/chapter/10.1007/11535218_15,"… of set operations using polynomial representations and employing the mathematical
+properties of polynomials, we design efficient methods to enable privacy-preserving computation …"
+1,5,"Privacy-preserving cloud computing on sensitive data: A survey of methods, products and challenges",https://www.sciencedirect.com/science/article/pii/S0140366418310740,"… -preserving data protection techniques that have been or can be used as privacy-enabling …
+Our analysis focuses on their ability to preserve the benefits of cloud computing: functionality, …"
+1,6,When federated learning meets privacy-preserving computation,https://dl.acm.org/doi/abs/10.1145/3679013,"… privacy-preserving computation. In light of the overwhelming variety and a multitude of
+privacy-preserving computation … the art of privacy-preserving computation protocols by analyzing …"
+1,7,Privacy preserving clustering,https://link.springer.com/chapter/10.1007/11555827_23,"… – We present the design and analysis of privacy-preserving k-means clustering al… is
+privacy-preserving of cluster means. We present two protocols for privacy-preserving computation of …"
+1,8,Privacy-preserving computation in cyber-physical-social systems: A survey of the state-of-the-art and perspectives,https://www.sciencedirect.com/science/article/pii/S0020025519306437,"… privacy-preserving tools and privacy-preserving computation … studies about privacy-preserving
+computation have been … in cloud or fog environments in a privacy-preserving way. To fully …"
+1,9,Security and privacy-preserving challenges of e-health solutions in cloud computing,https://ieeexplore.ieee.org/abstract/document/8726303/,"… 1) Literature Review- Study Selection: This study performs a systematized review of
+security and privacy preserving approaches of EHRs in the cloud environment from different …"
+1,10,Privacy-Preserving Computation: (Position Paper),https://link.springer.com/chapter/10.1007/978-3-642-54069-1_3,"… In Section 3 we review and compare a number of mechanisms for privacypreserving
+computation. Secure multi-party computation [54] has been invented thirty years ago, but …"
+2,1,"{Privacy-Preserving} Computation of Disease Risk by Using Genomic, Clinical, and Environmental Data",https://www.usenix.org/conference/healthtech13/workshop-program/presentation/ayday,"… To evaluate the practicality of the proposed privacypreserving algorithm, we implemented
+it, and assessed its storage requirement and computational complexity. We evaluated the …"
+2,2,Sok: Privacy-preserving computing in the blockchain era,https://ieeexplore.ieee.org/abstract/document/9797340/,"… Instead, we study solutions that support privacy-preserving payments or arbitrary computation
+for a variety of applications. In particular, we study the following schemes: • Payments: …"
+2,3,Toward responsible ai: An overview of federated learning for user-centered privacy-preserving computing,https://dl.acm.org/doi/abs/10.1145/3485875,"… This article reviews recent progress of federated learning in addressing this challenge in
+the context of privacy-preserving computing. Federated learning allows global AI models to be …"
+2,4,Providing privacy preserving in cloud computing,https://ieeexplore.ieee.org/abstract/document/5514526/,"… computing if we can address the very real privacy and security … privacy preserving
+technologies used in cloud computing services. Keywords privacy preserving cloud computing …"
+2,5,Privacy-preserving computation with trusted computing via scramble-then-compute,https://petsymposium.org/popets/2017/popets-2017-0026.php,"… via Scramble-then-Compute Abstract: We consider privacy-preserving computation of big
+data using trusted computing primitives with limited private memory. Simply ensuring that the …"
+2,6,An extended framework of privacy-preserving computation with flexible access control,https://ieeexplore.ieee.org/abstract/document/8894534/,"… In this paper, we propose four privacy-preserving division computation schemes with …
+Furthermore, we extend a division scheme over encrypted integers to support privacy-preserving …"
+2,7,Privacy-preserving outsourced classification in cloud computing,https://link.springer.com/article/10.1007/s10586-017-0849-9,"… [18] utilized a fully homomorphic property (BGV cryptosystem [19]) to perform the outsourcing
+computation. The existing literature on privacy-preserving in outsourcing computation are …"
+2,8,Privacy-Preserving Cooperative Scientific Computations.,https://www.cerias.purdue.edu/tools_and_resources/bibtex_archive/archive/2001-50.pdf,"… In this paper, we formally define these specific privacypreserving cooperative computation …
+set of new privacypreserving cooperative scientific computation problems: privacy-preserving …"
+2,9,Multi-key privacy-preserving deep learning in cloud computing,https://www.sciencedirect.com/science/article/pii/S0167739X17302005,"… In the basic scheme, we use M-FHE as our privacy-preserving … computation, in the training
+phase, both the computation of inner product of the inputs and weights, and the computation …"
+2,10,Sharemind: A framework for fast privacy-preserving computations,https://link.springer.com/chapter/10.1007/978-3-540-88313-5_13,"… stay online during the entire computation and their computers can be easily taken …
+computation. Thus, we can use secret sharing and share computing techniques for privacy-preserving …"
+5,1,Privacy preserving deep computation model on cloud for big data feature learning,https://ieeexplore.ieee.org/abstract/document/7210184/,"… privacy preserving deep computation model by offloading the expensive operations to the
+cloud. Privacy … the encrypted data efficiently for deep computation model training. Furthermore, …"
+5,2,Privacy-preserving genomic computation through program specialization,https://dl.acm.org/doi/abs/10.1145/1653662.1653703,"… We outline the contributions of this paper as follows: •A privacy protection … for privacy-preserving
+genomic computing, as illustrated in Figure 1. Our framework distributes a computation …"
+5,3,A novel privacy preserving authentication and access control scheme for pervasive computing environments,https://ieeexplore.ieee.org/abstract/document/1658432/,"… privacy preserving authentication and access control scheme at the application level to address
+the security and user privacy … verified correctness for privacy preserving access control to …"
+5,4,Efficient privacy-preserving biometric identification in cloud computing,https://ieeexplore.ieee.org/abstract/document/6567073/,"… Existing techniques for privacy-preserving biometric … a novel privacy-preserving biometric
+identification scheme which achieves efficiency by exploiting the power of cloud computing. In …"
+5,5,An efficient privacy preserving keyword search scheme in cloud computing,https://ieeexplore.ieee.org/abstract/document/5283742/,"… computing and propose an efficient privacy preserving keyword search scheme in cloud
+computing. … decipherment to reduce a client’s computational overhead, and enables the service …"
+5,6,Privacy preserving data mining,https://link.springer.com/chapter/10.1007/3-540-44598-6_3,"… A generic secure multi-party computation solution, based on evaluation of a circuit com… In
+our solution, each party performs by itself a computation of the same order as computing the …"
+5,7,Attribute-based privacy-preserving data sharing for dynamic groups in cloud computing,https://ieeexplore.ieee.org/abstract/document/8454256/,"… In this paper, the group-oriented ABE scheme with privacy preserving is introduced to …
+Moreover, our ABE scheme can preserve the privacy of the ciphertext receiver by providing …"
+5,8,TrustChain: A privacy preserving blockchain with edge computing,https://onlinelibrary.wiley.com/doi/abs/10.1155/2019/2014697,"… privacy concerns associated with cloud computing. Hence, this paper suggests the novel
+privacy preserving … can be deployed in the edge computing environment with different levels of …"
+5,9,Privacy-preserving data sharing in cloud computing,https://link.springer.com/article/10.1007/s11390-010-9333-1,"… privacy risk, both presence privacy and association privacy … note that the data privacy concern
+in the cloud computing is also … ] for a detailed survey on privacypreserving data publishing. …"
+5,10,Privacy-preserving data encryption strategy for big data in mobile cloud computing,https://ieeexplore.ieee.org/abstract/document/7931658/,"… Yang, “Role-dependent privacy preservation for secure V2G … of big data in cloud computing,”
+in Proc. 2nd IEEE Int. Conf. … Lou, “Privacypreserving public auditing for secure cloud …"
+6,1,Big data privacy preserving in multi-access edge computing for heterogeneous Internet of Things,https://ieeexplore.ieee.org/abstract/document/8436047/,"… Second, we draw our attention to the privacy issues in the MEC, especially in data aggregation
+and data mining. In addition, we consider machine learning privacy preserving as a case …"
+6,2,L-EncDB: A lightweight framework for privacy-preserving data queries in cloud computing,https://www.sciencedirect.com/science/article/pii/S0950705114001324,"… for privacy-preserving applications. Finally, we also showed how to extend our L-EncDB to
+realize the privacy-preserving … Especially, we will extend it to privacy-preserving knowledge …"
+6,3,Differential privacy preserving of training model in wireless big data with edge computing,https://ieeexplore.ieee.org/abstract/document/8345716/,"… privacy. In addition, we consider the privacy preserving issues presented in the existing
+literatures for differential privacy in the correlated datasets, and further provided differential …"
+6,4,A review of privacy-preserving techniques for deep learning,https://www.sciencedirect.com/science/article/pii/S0925231219316431,"… In this paper, we provide a review of the existing privacy-preserving deep learning … -of-the-art
+privacy-preserving deep learning techniques on the basis of privacy-preserving tasks at the …"
+6,5,A privacy-preserving cloud computing system for creating participatory noise maps,https://ieeexplore.ieee.org/abstract/document/6340214/,"… privacy concerns when creating collective noise maps in terms of the existing NoiseTube
+service [1], [2], we propose a solution relying on a privacypreserving distributed computation …"
+6,6,Privacy-preserving fog computing paradigm,https://ieeexplore.ieee.org/abstract/document/8228709/,"… Despite its advantages, fog architecture introduces new security and privacy threats that …
+two privacy issues posed by the fog computing architecture and we define privacy challenges …"
+6,7,Privacy-preserving federated learning in fog computing,https://ieeexplore.ieee.org/abstract/document/9066956/,"… In this article, we propose a privacypreserving federated learning scheme in fog
+computing. … and the large gap of computing power. We enable IoT device data to satisfy ε-differential …"
+6,8,Privacy preserving regression modelling via distributed computation,https://dl.acm.org/doi/abs/10.1145/1014052.1014139,"… to extend some of these methods so that privacy is preserved. We view a group of government
+… In Section 2 we outline the privacy preserving regression problem. This is followed, in …"
+6,9,"A flexible, privacy-preserving authentication framework for ubiquitous computing environments",https://ieeexplore.ieee.org/abstract/document/1030861/,"… users and computing services. However, the deployment of this computing paradigm in real-…
+authentication and access control techniques and privacy preserving protocols. We propose …"
+6,10,Cryptographic techniques for privacy-preserving data mining,https://dl.acm.org/doi/abs/10.1145/772862.772865,"… It was shown that non-trusting parties can jointly compute functions of their … to privacy
+preserving computation of data mining algorithms. We also show examples of secure computation …"
+7,1,Privacy-preserving computation offloading for parallel deep neural networks training,https://ieeexplore.ieee.org/abstract/document/9272685/,"… This paper provides privacy-preserving computation offloading solutions for DNN model …
+To secure the user’s data privacy, we design a DP activations algorithm that provides privacy …"
+7,2,Cerberus: Privacy-preserving computation in edge computing,https://ieeexplore.ieee.org/abstract/document/9162942/,"… and other privacy issues may occur when computation is … privacy challenge for data control,
+storage and computation. In … that preserves data privacy in edge computing by combining …"
+7,3,Privacy-preserving digital identity management for cloud computing.,https://www.academia.edu/download/48857081/DataEngBullMarch09CloudComputing.pdf#page=23,"… To address the problem of privacy-preserving management of digital identity attributes in
+domains with heterogeneous name spaces, we propose a privacy-preserving multi-factor …"
+7,4,Privacy preserving multi-party computation delegation for deep learning in cloud computing,https://www.sciencedirect.com/science/article/pii/S0020025518303608,"… Much work has been done on privacy preserving deep learning, and some of the … by
+privacy-preserving data mining and machine learning. The existing literature on privacy-preserving …"
+7,5,Verifiable Privacy-Preserving Computing,https://arxiv.org/abs/2309.08248,"… In this section, we discuss how verifiability is combined with privacy-preserving
+computing in practical settings that are frequently observed for verifiability and/or privacypreserving …"
+7,6,Privacy-preserving reputation management for edge computing enhanced mobile crowdsensing,https://ieeexplore.ieee.org/abstract/document/8336969/,"… However, preserving privacy may hinder the process of handling malicious participants. In …
+two privacy preserving reputation management schemes for edge computing enhanced MCS …"
+7,7,A privacy preserving system for cloud computing,https://ieeexplore.ieee.org/abstract/document/6036839/,"… privacy and confidentiality issues. We introduce in this paper a secure privacy preserving
+cloud … We focus on the Software as a Service [1] kind of utility computing model. The proposed …"
+7,8,Privacy-preserving governmental data publishing: A fog-computing-based differential privacy approach,https://www.sciencedirect.com/science/article/pii/S0167739X18300773,"… construction to illustrate the Privacy Preserving Process. We propose a privacy-preserving
+algorithm, namely the DP-based MDHP (the Differential Privacy-based MaxDiff Histogram …"
+7,9,An efficient and secure privacy-preserving approach for outsourced data of resource constrained mobile devices in cloud computing,https://www.sciencedirect.com/science/article/pii/S1084804516000540,"… Therefore, the efficient and secure mechanisms are needed to protect the privacy of sensitive
+data in a cloud environment. Moreover, the importance and necessity of privacy preserving …"
+7,10,EPCBIR: An efficient and privacy-preserving content-based image retrieval scheme in cloud computing,https://www.sciencedirect.com/science/article/pii/S0020025516321971,"The content-based image retrieval (CBIR) has been widely studied along with the increasing
+importance of images in our daily life. Compared with the text documents, images consume …"
+8,1,P^ 2-SWAN: Real-Time Privacy Preserving Computation for IoT Ecosystems,https://ieeexplore.ieee.org/abstract/document/8014354/,"… by placing computation close to the data: at the network edge. In this paper, we introduce
+privacy preserving SWAN (P 2 SWAN), a homomorphic-encryption enabled mobile computing …"
+8,2,Privacy-preserving computation in the post-quantum era,https://academic.oup.com/nsr/article-abstract/8/9/nwab115/6316790,"… Privacy-preserving computation realizes joint computation among multiple mutually
+distrustful participants while preserving the privacy of the computation, which has a wide …"
+8,3,Privacy-preserving model training architecture for intelligent edge computing,https://www.sciencedirect.com/science/article/pii/S0140366420318582,"… communication consumption, computation cost, and privacy protection. So the segmented
+layer needs to be selected through comprehensively considering the computing power of end …"
+8,4,Privacy-preserving pattern matching over encrypted genetic data in cloud computing,https://ieeexplore.ieee.org/abstract/document/8057178/,"… Another scheme [9] has limited privacy guarantee due to … privacy-preserving genetic testing
+in cloud computing and we focus ourselves on communication efficiency and strong privacy …"
+8,5,Analyzing and evaluating efficient privacy-preserving localization for pervasive computing,https://ieeexplore.ieee.org/abstract/document/8103755/,"… Using this definition, we evaluate the target and anchor location privacy preservation … The
+location privacy preservation evaluations use 20 anchor nodes. In the target location privacy …"
+8,6,Privacy-preserving association rule mining in cloud computing,https://dl.acm.org/doi/abs/10.1145/2714576.2714603,"… data privacy during association rule mining. Our solutions are built on the distributed
+ElGamal cryptosystem and achieve item privacy, transaction privacy and database privacy, …"
+8,7,Privacy-preserving data publishing: A survey of recent developments,https://dl.acm.org/doi/abs/10.1145/1749603.1749605,"… In this survey, we review recent work on anonymization approaches to privacypreserving
+data … The term “privacy-preserving data publishing” has been widely adopted by the computer …"
+8,8,Two-party computation model for privacy-preserving queries over distributed databases.,https://nyunetworks.github.io/networking/Pubs/A%20Two-Party%20Computation%20Model%20for%20Privacy%20Preserving%20Queries%20over%20Distributed%20Databases.pdf,"… Many existing privacy-preserving techniques for querying distributed databases of sensitive
+… This paper shows how to perform various privacypreserving operations in a scalable …"
+8,9,Privacy-preserving deep learning based on multiparty secure computation: A survey,https://ieeexplore.ieee.org/abstract/document/9352960/,"… computation that relies on dataencryption techniques. Compared with the surveys that directly
+classify the schemes based on privacy-preserving … -based privacypreserving techniques …"
+8,10,Privacy on the edge: Customizable privacy-preserving context sharing in hierarchical edge computing,https://ieeexplore.ieee.org/abstract/document/8790751/,"… privacy-preserving model in edge computing (MDP-PPFC) environments. The efficiency of
+the privacy preservation … protect both privacy issues in a hierarchical edge computing structure…"
+9,1,Privacy-preserving aware data aggregation for IoT-based healthcare with green computing technologies,https://www.sciencedirect.com/science/article/pii/S0045790622002890,"… This paper proposes EPPADA: Efficient Privacy‑Preserving Authentication and Data …
+requirements of healthcare using IoT with green computing technologies. The main objective of this …"
+9,2,Hybrid privacy-preserving clinical decision support system in fog–cloud computing,https://www.sciencedirect.com/science/article/pii/S0167739X17303874,"… Also, a privacy-preserving piecewise polynomial calculation protocol allows cloud server to
+… to solve the computation overflow problem, a new protocol called privacy-preserving fraction …"
+9,3,Privacy-preserving image processing in the cloud,https://ieeexplore.ieee.org/abstract/document/8354705/,"… The consequent massive computational workload makes people turn to cloud computing
+platforms for their economical computation resources. Meanwhile, the privacy concerns over …"
+9,4,Privacy-preserving cooperative statistical analysis,https://ieeexplore.ieee.org/abstract/document/991526/,"… tremendous opportunities for cooperative computation, where the … computation become
+very relevant and can provide useful solutions. Statistical analysis is a widely used computation …"
+9,5,"Enabling privacy-preserving, compute-and data-intensive computing using heterogeneous trusted execution environment",https://arxiv.org/abs/1904.04782,"… As a result, there is an urgent demand for privacy-preserving techniques capable of … Privacy
+preserving deep learning. Nick Hynes et al evaluated two types secure AI computing scenes […"
+9,6,A privacy-preserving mechanism based on local differential privacy in edge computing,https://ieeexplore.ieee.org/abstract/document/9205976/,"… location privacy-preserving mechanism of edge computing … ; (2) prevent privacy attacks
+from untruthful third parties and … cation privacy-preserving mechanism in edge computing by …"
+9,7,Shared authority based privacy-preserving authentication protocol in cloud computing,https://ieeexplore.ieee.org/abstract/document/6748054/,"… authority sharing, and privacy preservation. In this paper, we address the aforementioned
+privacy issue to propose a shared authority based privacy-preserving authentication protocol (…"
+9,8,Adapting privacy-preserving computation to the service provider model,https://ieeexplore.ieee.org/abstract/document/5283230/,"… privacy-preserving service. The service provider has to share benefits with an almost equal
+peer offering his computational … offer their computation power for privacy-preserving services. …"
+9,9,Efficient privacy-preserving computation based on additive secret sharing,https://arxiv.org/abs/2009.05356,"… In the privacy-preserving computation field, the GMW (aka. secret sharing based MPC) …
+2party computation scheme, which can be applied in privacypreserving computation under the …"
+9,10,Privacy preserving data aggregation scheme for mobile edge computing assisted IoT applications,https://ieeexplore.ieee.org/abstract/document/8485416/,"… cloud computing cannot satisfy the requirements, such as low latency, fast data access for IoT
+applications. Mobile edge computing (… In this paper, we propose a privacy preserving data …"
+10,1,A privacy-preserving and untraceable group data sharing scheme in cloud computing,https://ieeexplore.ieee.org/abstract/document/9319526/,"… data is ensured to achieve data privacy preservation. Second, the … a privacy-preserving and
+untraceable scheme is proposed to support multiple users in sharing data in cloud computing…"
+10,2,ECA: An edge computing architecture for privacy-preserving in IoT-based smart city,https://ieeexplore.ieee.org/abstract/document/8811469/,"… privacy preservation, including privacy … privacypreserving scheme for IoT-based smart cities,
+where each IoT device can select its own privacy method from the set of three above privacy …"
+10,3,Mscryptonet: Multi-scheme privacy-preserving deep learning in cloud computing,https://ieeexplore.ieee.org/abstract/document/8651459/,"… However, none of the existing privacy-preserving schemes are … privacy challenge. We
+demonstrate procedures in achieving seemingly impossible problem of these privacypreserving …"
+10,4,Efficient privacy preserving edge intelligent computing framework for image classification in iot,https://ieeexplore.ieee.org/abstract/document/9576096/,"… This privacy preserving method is quite different from the aim of this study, where data
+might not be available to trusted parties due to privacy concerns. Authentication and data …"
+10,5,Privacy preserving ranked multi-keyword search for multiple data owners in cloud computing,https://ieeexplore.ieee.org/abstract/document/7130597/,"… In this paper, we propose PRMSM, a privacy preserving ranked multi-… privacy of relevance
+scores between keywords and files, we propose a new additive order and privacy preserving …"
+10,6,Privacy-preserving computation of bayesian networks on vertically partitioned data,https://ieeexplore.ieee.org/abstract/document/1661515/,"… privacy-preserving computation. Since the score function is only used for comparison
+purposes, we work instead with a different score function that has the same relative ordering. We …"
+10,7,Lightweight privacy-preserving medical diagnosis in edge computing,https://ieeexplore.ieee.org/abstract/document/9124720/,"… privacypreserving machine learning in edge computing. To address the above challenges,
+we design a lightweight privacy-preserving … ters to greatly lighten computational overhead, …"
+10,8,Privacy-preserving data publishing,https://www.nowpublishers.com/article/Details/DBS-008,"… Research on protecting the privacy of individuals and the … computer science, statistics,
+economics, and social science. In this paper, we survey research work in privacy-preserving data …"
+10,9,Efficient privacy preserving video surveillance,https://ieeexplore.ieee.org/abstract/document/5459370/,"… In this paper, we propose an efficient framework to carry out privacy preserving surveillance.
+We … to Secure Multiparty Computation, making privacy preserving surveillance, practical. …"
+10,10,Efficient and privacy-preserving medical data sharing in Internet of Things with limited computing power,https://ieeexplore.ieee.org/abstract/document/8365879/,"With the application of Internet of Things (IoT) technologies in smart city, intelligent medical
+terminals play a more and more significant role in our daily life. These terminals can monitor …"
