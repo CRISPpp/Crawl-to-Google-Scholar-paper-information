@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import NoSuchElementException
 import argparse
 
 
@@ -29,11 +30,21 @@ with open('output_raw.csv', 'w', newline='') as file:
             results = driver.find_elements(By.CSS_SELECTOR, "div.gs_ri")
             print("Search results loaded.")
             for index, result in enumerate(results, start=1):
-                title = result.find_element(By.CSS_SELECTOR, "h3.gs_rt a").text
-                link = result.find_element(By.CSS_SELECTOR, "h3.gs_rt a").get_attribute('href')
-                driver.get(link)
-                html_source = driver.page_source
+                try:
+                    title = result.find_element(By.CSS_SELECTOR, "h3.gs_rt a").text
+                except NoSuchElementException:
+                    title = ""
+                try:
+                    link = result.find_element(By.CSS_SELECTOR, "h3.gs_rt a").get_attribute('href')
+                except NoSuchElementException:
+                    link = ""
+                if len(link) > 0:
+                    driver.get(link)
+                    html_source = driver.page_source
+                else:
+                    html_source = ""
                 writer.writerow([i+1, index, title, html_source])
-                driver.back()
+                if len(link) > 0:
+                    driver.back()
     finally:
         driver.quit()
