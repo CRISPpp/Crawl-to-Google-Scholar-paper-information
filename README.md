@@ -30,3 +30,9 @@ python3 xxx.py -q "输入要搜索的主题"
 ```
 跳转到url里读取需要的内容，这里需要自行修改，代码只直接获取整个html
 ```
+
+# example data
+|  Page   | Result  |  Title   | Link  | Abstract  |
+|  ----  | ----  | ----  | ----  | ----  |
+| 1  | 1 | Toward efficient and privacy-preserving computing in big data era  | https://ieeexplore.ieee.org/abstract/document/6863131/ | "… privacy-preserving techniques to check whether or not they are suitable for privacy-preserving … also present an efficient and privacy-preserving cosine similarity computing protocol as an …" |
+| 1  | 2 | Exploring design and governance challenges in the development of privacy-preserving computation  | https://dl.acm.org/doi/abs/10.1145/3411764.3445677 | "… multi-party computation, and differential privacy are part of an emerging class of Privacy Enhancing … , and responsible governance of these privacy-preserving computation techniques. …" |
