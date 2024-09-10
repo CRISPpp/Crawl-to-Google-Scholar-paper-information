@@ -1,5 +1,17 @@
 # 爬取谷歌学术论文信息的简单工具-分为保留原html和保留链接两种
 
+# 环境-ubuntu
+```
+python 3.10.12
+```
+```
+chromedriver --version
+ChromeDriver 128.0.6613.119 (6e439cfca4deda5954b0c74cde9b521c03cb31ad-refs/branch-heads/6613@{#1464})
+```
+```
+Chrome version is same with ChromeDriver
+```
+
 # 用法
 ```
 python3 xxx.py -q "输入要搜索的主题"
