@@ -1,0 +1,255 @@
+Page,Result,Title,Link,Abstract_With_LLM
+1,1,Toward efficient and privacy-preserving computing in big data era,https://ieeexplore.ieee.org/abstract/document/6863131/,"该网页的摘要如下：
+
+网页标题：Request Rejected（请求被拒绝）
+
+网页内容：请求的URL被拒绝访问。请咨询您的管理员。同时提供了支持ID（8203161996614929298）和一个返回上一页的链接。"
+1,2,Exploring design and governance challenges in the development of privacy-preserving computation,https://dl.acm.org/doi/abs/10.1145/3411764.3445677,"This webpage is an article from the 2021 CHI Conference on Human Factors in Computing Systems. The article explores the challenges and opportunities associated with the development and implementation of privacy-preserving computation technologies.
+
+**Key Points**:
+
+* **Privacy-Preserving Computation**: The article focuses on technologies like homomorphic encryption, secure multi-party computation, and differential privacy that aim to protect user privacy while enabling computational analysis.
+* **Challenges**:
+    * **Making Privacy Computable**: The article discusses the challenge of making abstract concepts like privacy tractable within the computational framework.
+    * **Developer Usability**: Ensuring that these technologies are accessible and usable for developers is crucial for their widespread adoption.
+    * **Stakeholder Communication**: Explaining and making these technologies accountable to stakeholders and the broader society is essential for public trust and adoption.
+* **Opportunities**:
+    * The article highlights the potential of these technologies to enable new forms of computation and data analysis while preserving user privacy.
+    * It also emphasizes the need for responsible governance and ethical considerations in the development and deployment of these technologies.
+
+**Summary**:
+
+This article provides valuable insights into the complex landscape of privacy-preserving computation. It highlights the challenges and opportunities associated with these technologies and emphasizes the need for careful consideration of privacy, usability, and governance issues."
+1,3,Sok: Privacy-preserving computation techniques for deep learning,https://petsymposium.org/popets/2021/popets-2021-0064.php,"摘要：
+
+本文综述了隐私保护计算技术在深度学习（DL）中的应用，旨在理解研究提案与实际应用之间的差距。作者详细讨论了同态加密和多方安全计算等隐私保护技术如何使得在受保护数据上执行深度学习训练和推理成为可能。然而，这些技术在实际部署中仍处于不成熟阶段，存在效率不足、缺乏标准工具和编程接口、与数据科学社区常用的深度学习框架集成困难等问题。
+
+作者通过回顾隐私保护计算技术在深度学习中的发展历程，强调了其在效率、可复现性和集成方面的优势和劣势。此外，文章还讨论了隐私保护计算技术在金融、医疗研究和社会科学等领域的应用前景。
+
+关键词：隐私保护计算、深度学习、同态加密、多方安全计算。"
+1,4,Privacy-preserving set operations,https://link.springer.com/chapter/10.1007/11535218_15,"This web page is about ""Privacy-Preserving Set Operations,"" a scholarly article published in the conference proceedings ""Advances in Cryptology – CRYPTO 2005."" 
+
+Here's the summary:
+
+* **Topic**: The article explores efficient techniques for performing private computations on multisets, where multiple parties with private input sets want to compute certain operations (like union, intersection, and element reduction) without revealing their private sets to each other.
+* **Approach**: The authors propose a framework based on polynomial representations and homomorphic encryption. This framework allows parties to perform privacy-preserving computations without revealing their private data.
+* **Applications**: The techniques are applied to various practical problems, such as secure multiparty computation and secure voting systems, demonstrating their potential in real-world scenarios.
+* **Significance**: This work contributes to the field of privacy-preserving computation by providing efficient and secure methods for set operations, which have significant implications for protecting sensitive data in distributed systems."
+1,5,"Privacy-preserving cloud computing on sensitive data: A survey of methods, products and challenges",https://www.sciencedirect.com/science/article/pii/S0140366418310740,">
+
+This is the HTML content of the ScienceDirect website when an error occurs (404 page not found). The content is displayed in a dark background with a white warning icon (!) and a message indicating that there was a problem providing the requested content. 
+
+Here's a breakdown of the HTML content:
+
+**Head**: 
+- The HTML content includes a `<head>` section with metadata, including the title of the page, which is ""ScienceDirect"" and ""404 Page Not Found"".
+
+**Body**: 
+- The `<body>` section contains the main content of the page.
+- The page is wrapped in a `<main>` element with the class ""e404"" and the ID ""skipNavigation"", which allows users to skip the navigation links.
+- The page content is displayed in a dark background with a white warning icon (!) and a message indicating that there was a problem providing the requested content.
+- The message includes a link to contact the support center for more information and provides details such as the reference number, IP address, user agent, and timestamp.
+- The page also includes a `<footer>` section with copyright information and links to various pages on the ScienceDirect website.
+
+**Footer**:
+- The footer contains the Elsevier logo and links to various pages, including ""About ScienceDirect,"" ""Shopping cart,"" ""Contact and support,"" ""Terms and conditions,"" and ""Privacy policy.""
+- The footer also includes a message about cookies and copyright information.
+
+**Additional Notes**:
+- The HTML content uses the ""NexusSans"" and ""NexusSerif"" fonts.
+- The page uses CSS to style the content, including the font family, font size, line height, and color.
+- The page uses JavaScript to dynamically display the user agent and timestamp.
+
+## Summary:
+
+The HTML content of the ScienceDirect 404 page provides a clear and concise message to users when they encounter a page not found error. The page includes a link to contact support, details about the error, and information about the website. The design and styling of the page are consistent with the ScienceDirect brand.nl
+## Additional Considerations:
+
+Here are some additional considerations for the 404 page:
+
+**User Experience**:
+- **Clear and Concise Message**: The page clearly states that there was a problem providing the requested content, which helps users understand the issue.
+- **Contact Information**: The page includes a link to contact support, which allows users to easily report the error or request assistance.
+- **User Agent and Timestamp**: The page includes the user agent and timestamp, which can be helpful for troubleshooting and identifying the source of the error.
+
+**Accessibility**:
+- **Accessible Text**: The page uses alt text for images and ensures that the text is readable and accessible to users with disabilities.
+- **Keyboard Navigation**: The page is navigable using a keyboard, which is important for users who rely on assistive technologies.
+
+**SEO**:
+- **Search Engine Optimization**: The page includes a title and meta description that accurately describe the content of the page, which can help improve its visibility in search engine results pages (SERPs).
+
+**Additional Features**:
+- **Search Functionality**: Consider adding a search bar to the 404 page to allow users to search for the content they were looking for.
+- **Link to Home Page**: Include a link to the website's home page to allow users to easily navigate back to the main content.
+- **Suggestions for Similar Content**: Provide suggestions for similar content or popular pages to help users find what they are looking for.
+
+**Conclusion**:
+
+The ScienceDirect 404 page is well-designed and effective in providing users with information about the error and allowing them to easily report the issue or navigate to other content. By considering the user experience, accessibility, SEO, and additional features, the 404 page can be further improved to provide a better overall experience for users.nl
+## Example of a Possible Improvement:
+
+**Adding a Search Functionality**:
+
+One potential improvement to the ScienceDirect 404 page is to add a search functionality. This would allow users to search for the content they were looking for, increasing the chances of them finding what they need and reducing the likelihood of them leaving the site.
+
+Here's an example of how the search functionality could be implemented:
+
+```html
+<div class=""e404-search"">
+  <input type=""text"" id=""searchInput"" placeholder=""Search for content..."">
+  <button id=""searchButton"">Search</button>
+</div>
+<script>
+  document.getElementById(""searchButton"").addEventListener(""click"", function() {
+    var searchTerm = document.getElementById(""searchInput"").value;
+    window.location.href = ""https://www.sciencedirect.com/search?query="" + encodeURIComponent(searchTerm);
+  });
+</script>
+```
+
+**Explanation**:
+
+- The `<div>` element with the class ""e404-search"" contains the search input and button.
+- The search input has an `id` of ""searchInput"" and a `placeholder` of ""Search for content..."" to"
+1,6,When federated learning meets privacy-preserving computation,https://dl.acm.org/doi/abs/10.1145/3679013,"This ACM Computing Surveys article discusses the intersection of Federated Learning (FL) and Privacy-Preserving Computation (PPC). Here's a summary of the key points:
+
+**Background**:
+
+* Privacy concerns are growing with the rise of AI and data-driven applications.
+* FL offers a way to perform data analysis and computation without sharing raw data, addressing privacy concerns.
+* However, FL is not immune to attacks that can infer information about the original data from local models or gradients.
+
+**Challenges and Attacks**:
+
+* **Inference Attacks**: These attacks attempt to infer information about the raw data from the local models or gradients shared during the FL process. The article classifies inference attacks into four categories:
+    * **Vertical Inference**: Inferring individual data points.
+    * **Horizontal Inference**: Inferring patterns or characteristics across multiple data points.
+    * **Membership Inference**: Determining whether a particular data point was part of the training set.
+    * **Attribute Inference**: Inferring sensitive attributes of individuals based on their data.
+* **Malicious Server and Poisoning Attacks**: These attacks involve an attacker manipulating the FL process or corrupting the training data, leading to biased or compromised models.
+
+**Privacy-Preserving Computation Protocols**:
+
+* The article surveys various PPC protocols that can be used to mitigate the risks associated with FL. It analyzes the design rationale behind these protocols and evaluates them based on their efficiency and security properties.
+* Some of the key techniques discussed include:
+    * **Homomorphic Encryption**: Allows computation on encrypted data without decrypting it.
+    * **Secure Multi-Party Computation**: Enables multiple parties to compute a function on their respective private data without revealing their inputs.
+    * **Differential Privacy**: Adds noise to data to prevent sensitive information from being revealed.
+
+**Future Directions**:
+
+* The article identifies several interesting future directions for research in this area, including:
+    * Developing more efficient and scalable PPC protocols.
+    * Exploring new techniques for mitigating inference attacks.
+    * Integrating PPC with other AI and machine learning technologies.
+
+**Overall, the article provides a comprehensive overview of the challenges and opportunities associated with using FL and PPC. It will be valuable for researchers, practitioners, and policymakers interested in developing secure and privacy-preserving AI systems**."
+1,7,Privacy preserving clustering,https://link.springer.com/chapter/10.1007/11555827_23,"This web page discusses a privacy-preserving k-means clustering algorithm. Here's a summary of the key points:
+
+**Problem**: The freedom and transparency of information flow on the Internet has raised concerns about privacy. Clustering algorithms, which group similar data items, can potentially expose sensitive information.
+
+**Solution**: This paper proposes a privacy-preserving k-means clustering algorithm where only the cluster means are revealed to the participants. This is achieved through two protocols:
+
+* **Oblivious Polynomial Evaluation**: This protocol allows the secure computation of polynomial functions without revealing the inputs.
+* **Homomorphic Encryption**: This protocol allows the secure computation of arithmetic operations on encrypted data.
+
+**Implementation**: The authors have implemented the algorithm in Java and evaluated it on three datasets. The evaluation demonstrates that privacy-preserving clustering is feasible and can be done efficiently.
+
+**Conclusion**: This research highlights the importance of privacy-preserving techniques in data analysis and provides a practical solution for secure clustering."
+1,8,Privacy-preserving computation in cyber-physical-social systems: A survey of the state-of-the-art and perspectives,https://www.sciencedirect.com/science/article/pii/S0020025519306437,">
+
+## 网站结构分析
+
+从您提供的 HTML 代码片段中，我们可以分析出以下网站结构：
+
+**1. 头部 (Header)**:
+
+*   包含 Elsevier 的品牌标志和标语。
+*   包含一个水平导航栏，包括以下链接：
+    *   Journals & Books
+    *   Help
+*   包含一个用户信息区域，可能包含用户头像、用户名和下拉菜单。
+
+**2. 主体 (Main)**:
+
+*   包含一个 404 页面，显示以下信息：
+    *   错误消息：无法提供您请求的内容
+    *   联系方式：通过支持中心联系
+    *   详细信息：引用编号、IP 地址、用户代理和时间戳
+
+**3. 页脚 (Footer)**:
+
+*   包含以下信息：
+    *   Elsevier 品牌标志
+    *   关于 ScienceDirect、购物车、联系和支持、条款和条件、隐私政策等链接
+    *   版权信息
+    *   RELX 集团品牌标志
+
+## 404 页面分析
+
+404 页面是一个特殊的页面，当用户请求的页面不存在时，网站会自动跳转到这个页面。以下是 404 页面的关键信息：
+
+*   **错误消息**：清晰地告知用户请求的页面不存在。
+*   **联系方式**：提供一种方式让用户联系网站管理员或技术支持人员。
+*   **详细信息**：提供一些额外的信息，例如引用编号、IP 地址、用户代理和时间戳，以便网站管理员或技术支持人员调查问题。
+
+## 总结
+
+从您提供的 HTML 代码片段中，我们可以看到该网站具有清晰的布局和结构，并且 404 页面也设计得很好。然而，由于代码片段有限，我们无法了解网站的完整功能和用户交互。如果您需要更深入的分析，请提供更多代码或描述您想要了解的具体功能。 
+
+## 其他建议
+
+*   **响应式设计**：确保网站在不同设备和屏幕尺寸上都能正常显示。
+*   **搜索引擎优化 (SEO)**：优化网站内容，使其更容易在搜索引擎中排名。
+*   **用户体验 (UX)**：确保网站易于导航和使用。 
+
+希望以上信息对您有所帮助！如果您有任何其他问题，请随时提问。"
+1,9,Security and privacy-preserving challenges of e-health solutions in cloud computing,https://ieeexplore.ieee.org/abstract/document/8726303/,"网页摘要：
+该网页显示了一个“请求被拒绝”的错误信息，建议用户咨询管理员。同时提供了用户的支持ID（8203161996615235570）和一个“返回”链接，用于返回上一页。"
+1,10,Privacy-Preserving Computation: (Position Paper),https://link.springer.com/chapter/10.1007/978-3-642-54069-1_3,">
+## 文章概述
+
+这篇文章探讨了在云计算等场景中，如何保护隐私数据不被泄露。文章首先分析了需要隐私保护的计算场景，然后介绍了现有的加密技术，最后提出了实现隐私保护计算的挑战和研究方向。
+
+## 主要内容
+
+1. **需要隐私保护的计算场景**：
+    * **云计算**： 将数据存储和计算外包给第三方，存在数据泄露风险。
+    * **数据分析**： 对敏感数据进行数据分析，需要保护数据隐私。
+    * **社交网络**： 在社交网络中分享数据，需要保护个人隐私。
+
+2. **现有的加密技术**：
+    * **同态加密**： 允许在不泄露数据的情况下进行计算。
+    * **安全多方计算**： 允许多个参与方在不泄露数据的情况下共同计算。
+    * **差分隐私**： 通过添加噪声来保护数据隐私。
+
+3. **实现隐私保护计算的挑战**：
+    * **性能**： 隐私保护计算通常比传统计算更慢。
+    * **安全性**： 隐私保护计算需要保证安全性。
+    * **可扩展性**： 隐私保护计算需要保证可扩展性。
+
+4. **研究方向**：
+    * **优化算法**： 优化隐私保护计算算法，提高性能。
+    * **设计新的加密技术**： 设计新的加密技术，提高安全性。
+    * **构建可扩展的隐私保护计算平台**： 构建可扩展的隐私保护计算平台，方便用户使用。
+
+## 总结
+
+隐私保护计算是一个重要的研究方向，可以帮助我们保护数据隐私，防止数据泄露。随着技术的不断发展，隐私保护计算将会得到更广泛的应用。
+
+
+## 其他信息
+
+* 文章发表于2014年，但隐私保护计算仍然是一个活跃的研究领域。
+* 文章中提到的加密技术已经得到了广泛应用，例如同态加密在区块链和人工智能领域得到了应用。
+* 隐私保护计算仍然面临着一些挑战，例如性能和安全性问题。
+
+
+## 补充
+
+* 可以将隐私保护计算与其他技术结合，例如人工智能和区块链，以构建更安全的系统。
+* 隐私保护计算也需要法律法规的支持，以保护用户的隐私权益。
+
+
+希望以上信息对您有所帮助！如果您有任何其他问题，请随时提出。"
